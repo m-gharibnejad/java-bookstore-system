@@ -143,7 +143,6 @@ public class Customer implements Role {
 
             default:
                 log.warning("\u274C Invalid choice");
-                showMenu();
         }
     }
 

@@ -42,7 +42,6 @@ public class Author implements Role {
                 break;
             default:
                 log.warning("\u274C Invalid choice");
-                showMenu();
         }
     }
 
